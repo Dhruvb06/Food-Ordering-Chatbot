@@ -1,8 +1,10 @@
 **********AWS Lex**********
+
 Amazon Lex is a service for building conversational user interfaces (like chatbots) into everyday applications. In the past, developing tools like Lex have been incredibly complex, especially when one considers the power of Lex, allowing for the transcription, processing, and synthesis of text all via a few API calls. This project is a simple demo of Lex chatbot and how it can be used to process voice input and act on a users input (refereed to as utterances).
 
 
 **********Setup**********
+
 In order to use Amazon Lex, you must have an active AWS account (with billing information entered). You will need to create an IAM user with programmatic access, and access to both Lex  and AmazonLexFullAccess.
 
 
