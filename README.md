@@ -25,14 +25,14 @@ In order to use Amazon Lex, you must have an active AWS account (with billing in
 **********Project Working**********
   
 1) So , First of all we invoke the bot  by sending a message as "hi" , "hello" , "hey" etc. 
-2) Bot will reply back with a message "What type of food you want to order? " You will get 3 options i.e "Veg Burger , Devil Veg Burger and Royal Veg Burger". You choose any one option and either type the same or just click that button.
+2) Bot will reply back with a message "What type of food you want to order? " You will get 3 options i.e "Veg Burger , Devil Veg Burger and Royal Veg Burger". You        choose any one option and either type the same or just click that button.
 3) Then it will ask for "What type of Patty do you want to have? " . You will get  2 options i.e  "Single Patty or Double Patty". You choose any one.
-4)  Further it will ask for "Would you like to have extras? " . You will get 3 options i.e "Extra Cheese , Extra Mayonnaise or No extras". You choose any one.
--->  Then it will ask for "Would you like to have add on Sides? " which includes 3 options i.e "French Fries, Cold Drink , No sides" . You choose any one.
--->  Then the bot will ask your personal details which includes "First Name" ,  "Contact Number" .
--->  After that it will ask your preffered delivery time for your order .
--->  Bot will ask for confirmation of your order with your order details . If its okay then type "Yes" for confirming your order and if its not okay then type "No" and your order will be cancelled.
--->  If the order details are okay then it will give a confirmation message that "Your order was confirmed and will be delivered to you on time".
+4) Further it will ask for "Would you like to have extras? " . You will get 3 options i.e "Extra Cheese , Extra Mayonnaise or No extras". You choose any one.
+5) Then it will ask for "Would you like to have add on Sides? " which includes 3 options i.e "French Fries, Cold Drink , No sides" . You choose any one.
+6) Then the bot will ask your personal details which includes "First Name" ,  "Contact Number" .
+7) After that it will ask your preffered delivery time for your order .
+8) Bot will ask for confirmation of your order with your order details . If its okay then type "Yes" for confirming your order and if its not okay then type "No" and      your order will be cancelled.
+9) If the order details are okay then it will give a confirmation message that "Your order was confirmed and will be delivered to you on time".
 
 
 
